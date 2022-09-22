@@ -1,0 +1,37 @@
+{
+  "title": "你可能感興趣的文章",
+  "article": [
+    {
+      "title": "01淺談非投資等級債券與投資等級債券",
+      "image": "./images/introduce/article_1.jpg",
+      "content": "對於多數債券投資人來說，投資債券無非是追求較為穩定的固定收益，或是期待較低波動的報酬表現。",
+      "link": "unit.html",
+      "id": "fltUnit01",
+      "articalNum": "1"
+    },
+    {
+      "title": "02非投資等級債券的風險與機會",
+      "image": "./images/introduce/article_2.jpg",
+      "content": "一般人對於非投資等級債券的擔憂不外乎是違約、利率與波動風險，但在風險背後是否蘊藏投資機會？本文將深入解析。",
+      "link": "unit.html",
+      "id": "fltUnit02",
+      "articalNum": "2"
+    },
+    {
+      "title": "03如何聰明挑選非投資等級債券基金？",
+      "image": "./images/introduce/article_3.jpg",
+      "content": "在台灣，可供選擇的非投資等級債券基金逾百檔，要如何挑選是許多人心中的疑問。實際上，掌握四大基本心法，便可望發掘出風險相對低又具長期報酬與收益潛力的基金。",
+      "link": "unit.html",
+      "id": "fltUnit03",
+      "articalNum": "3"
+    },
+    {
+      "title": "04這裡是測試文字",
+      "image": "./images/introduce/article_3.jpg",
+      "content": "在台灣，可供選擇的非投資等級債券基金逾百檔，要如何挑選是許多人心中的疑問。實際上，掌握四大基本心法，便可望發掘出風險相對低又具長期報酬與收益潛力的基金。",
+      "link": "unit.html",
+      "id": "fltUnit04",
+      "articalNum": "4"
+    }
+  ]
+}

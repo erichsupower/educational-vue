@@ -1,0 +1,39 @@
+{
+    "title": "網站框架整理",
+    "frameworks": [
+        {
+            "type": "frontend",
+            "content":[ 
+                {
+                    "name": "Vue",
+                    "version": "2.x"
+                },
+                {
+                    "name": "React",
+                    "version": "16.x"
+                },
+                {
+                    "name": "React",
+                    "version": "9.x"
+                }                
+            ]
+        },
+        {
+            "type": "backend",
+            "content":[
+                {
+                    "name": "Laravel",
+                    "version": "7.x"
+                },
+                {
+                    "name": "CakePHP",
+                    "version": "4.x"
+                },
+                {
+                    "name": "Django",
+                    "version": "3.x"
+                }
+            ]
+        }
+    ]
+}
